@@ -63,3 +63,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - [Wordle](https://wordlegame.org/) - Inspiration for the game concept
+
+## Utility
+
+This is a standalone project I made alone, not really looking for contributors but I'd be glad to listen to any suggestions apart from "this is missing from here".
+If you have any doubts or info I'd be glad to answer them, also you can click the question mark symbol if you have any doubts on how to play.
+This project was a big help in understanding react, css and js. Had a hard time with the functionality of the game itself which is why it's missing some features from the original.
