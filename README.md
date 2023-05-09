@@ -62,4 +62,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- [Wordle](https://www.wordle.net) - Inspiration for the game concept
+- [Wordle](https://wordlegame.org/) - Inspiration for the game concept
