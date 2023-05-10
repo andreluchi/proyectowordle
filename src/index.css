@@ -23,7 +23,7 @@ code {
 
 .page {
   background-color: var(--page-color);
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .container {
@@ -32,14 +32,14 @@ code {
 }
 
 :root {
-  --page-color: #121213;
+  --page-color: #131213;
   --border-color: #3a3a3c;
   --text-color: #d7dadc;
   --menu-color: #565758;
   --correct-color: #53ab4c;
   --present-color: rgb(215 184 41);
   --wrong-color: #f75858;
-  --key-bg: #444444;
+  --key-bg: #020417;
   --key-color: #d7dadc;
   --modal-border-color: #1a1a1b;
   --modal-background-color: #121213;

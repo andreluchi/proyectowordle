@@ -69,7 +69,9 @@ export default function Keyboard({ onInput, boardState, word, currentRow }) {
     return result
   }
 
-  return (<div className="keyboard">
+  return (
+  <div className='overkey'>
+  <div className="keyboard">
     {KEYS.map((row, index) => (<div className="keyboard-row" key={index}>
       {row.map(key => (
         <button
@@ -78,5 +80,6 @@ export default function Keyboard({ onInput, boardState, word, currentRow }) {
           key={key}>{key}
         </button>))}
     </div>))}
+  </div>
   </div>)
 }

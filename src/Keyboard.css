@@ -1,3 +1,8 @@
+.overkey {
+  position: center;
+  bottom: 10px;
+  right: 10px;
+}
 .keyboard {
   height: 210px;
   display: flex;
